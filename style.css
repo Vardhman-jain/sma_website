@@ -1,0 +1,97 @@
+.header{
+background-color: White;
+display:flex;
+}
+.nav{
+list-style-type:none;
+position:absolute;
+right:35px;
+margin-top:20px;
+}
+.menu{
+text-decoration:none;
+margin:0;
+padding:0;
+float:right;
+}
+.logo{
+margin-left: 10px;
+}
+.a{
+text-decoration:none;
+color:black;
+font-weight:regular;
+}
+*{
+font-family:helvetica;
+}
+.a{
+float:right;
+margin-left:50px;
+font-size: 22px;
+padding:4px;
+transition-duration:250ms;
+}
+.a:hover{
+color:grey;
+border-radius:5px;
+}
+.img{
+width:100%;
+height:650px;
+}
+.line{
+background-color:black;
+height:10px;
+border-radius:20px;
+width:200px;
+}
+p{
+font-size:30px;
+padding:0 200px;
+}
+.h1, .h{
+font-size:60px;
+}
+.cards{
+display:flex;
+align-elements:center;
+}
+.card{
+height:600px;
+width:400px;
+border: solid;
+border-color:black;
+border-radius:20px;
+margin-left:10px;
+margin-right:10px;
+}
+.bro1{
+width:348px;
+height:344;
+border-radius: 20px;
+}
+label{
+weight: bold;
+}
+.card:hover{
+height:650px;
+width:450px;
+box-shadow: 0px 0px 5px;}
+.vision{
+font-size:60px;
+}
+h2{
+margin: 0 20px;
+font-weight: lighter;}
+.h2{
+color:green;
+}
+.us{
+border: solid;
+border-width:2px;
+border-radius:20px
+}
+.b{
+
+}
